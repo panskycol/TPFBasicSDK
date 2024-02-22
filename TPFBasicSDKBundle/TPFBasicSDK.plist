@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPID</key>
+	<string>1000007</string>
+	<key>APPKEY</key>
+	<string>b09f072fdda3933995522a13aa51de61</string>
+	<key>APPSECRET</key>
+	<string>f0fbb2d5fe0eefac3ae809d89c2cac08</string>
+	<key>CHANNELID</key>
+	<string>3</string>
+	<key>EVENT_APPKEY</key>
+	<string>f0fbb2d5fe0eefac3ae809d89c2cac08</string>
+	<key>PROXY</key>
+	<string>http://10.100.2.29:33306</string>
+	<key>sdk_ui_theme</key>
+	<string>nihong</string>
+	<key>SERVERID</key>
+	<string>0</string>
+	<key>URL_DATA_REPORT</key>
+	<string>http://192.168.16.131:26800</string>
+</dict>
+</plist>

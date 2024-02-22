@@ -1,0 +1,27 @@
+//
+//  TPFBasicSDKPrefixHeader.pch
+//  TPFBasicSDK
+//
+//  Created by 呼啦 on 2022/10/28.
+//  Copyright © 2022 尚游网络. All rights reserved.
+//
+
+#ifndef TPFBasicSDK-Prefix_pch
+#define TPFBasicSDK-Prefix_pch
+
+#import "TPFBasicSDKBundle.h"
+#import "TPFBasicMacro.h"
+#import "SYBasicURLMacro.h"
+#import "NSArray+String.h"
+#import "NSObject+CurrentViewController.h"
+#import "UIView+FrameExtend.h"
+#import "TPFBasicConfig.h"
+#import "NSObject+Null.h"
+#import "YYLabel.h"
+#import "UIView+YYAdd.h"
+#import "YYText.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* TPFBasicSDKPrefixHeader_pch */
